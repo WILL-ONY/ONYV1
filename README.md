@@ -4,9 +4,9 @@
     pkg install python
     pip install bs4
     pip install requests 
-    git clone https://github.com/khamdihi-XV/simpel
+    git clone https://github.com/WILL-ONY/ONYV1
     cd simpel
     python Run.py
 
-    Kasih bintang lah ka😗
-    Masih ada bug? Langsung lapor aja : 085729416714
+    Kasih bintang lah dekkk
+    

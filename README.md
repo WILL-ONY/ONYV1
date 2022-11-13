@@ -5,8 +5,8 @@
     pip install bs4
     pip install requests 
     git clone https://github.com/WILL-ONY/ONYV1
-    cd simpel
+    cd ONYV1
     python Run.py
 
-    Kasih bintang lah dekkk
+    Kasih bintang lah Kacckkkk
     

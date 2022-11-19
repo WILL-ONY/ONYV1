@@ -6,7 +6,7 @@
     pip install requests 
     git clone https://github.com/WILL-ONY/ONYV1
     cd ONYV1
-    python Run.py
+    python WILLONYYV1-enc.py
 
     Kasih bintang lah Kacckkkk
     
